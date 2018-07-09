@@ -6,12 +6,6 @@ Read my post in the freeCodeCamp blog on Medium for a tutorial on how to create 
 
 - [How you can make a progressive web app in an hour – freeCodeCamp](https://medium.freecodecamp.org/how-you-can-make-a-progressive-web-app-in-an-hour-7e36d560610e)
 
-<p align="center">
-  <a href="images/progressive-web-app-in-an-hour.png">
-    <img src="images/progressive-web-app-in-an-hour.png" border="3" style="border-radius: 10px;">
-  </a>
-</p>
-
 ## Create your app
 
 Clone this repo (or just copy the bits you need). The main files to edit are:  
