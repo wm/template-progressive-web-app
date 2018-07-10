@@ -1,6 +1,6 @@
 # Template Progressive Web App
 
-A template you can use to quickly build a progressive web app that works online, offline, in a browser and as a mobile app.
+A template you can use to quickly build a progressive web app that works online, offline, in a browser and as a mobile app. 
 
 Read my post in the freeCodeCamp blog on Medium for a tutorial on how to create your app.
 
