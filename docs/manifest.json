@@ -1,6 +1,6 @@
 {
-  "name": "Iora Health - Agent App",
-  "short_name": "Iora Health - Agent App",
+  "name": "Iora Health",
+  "short_name": "Iora Health",
   "icons": [{
     "src": "images/icons/icon-128x128.png",
       "sizes": "128x128",
